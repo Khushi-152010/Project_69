@@ -1,0 +1,31 @@
+.nav-inverse my_nav_bar{
+    position: sticky;
+    top: 0;
+    z-index: 99999;
+    background-color: gray;
+}
+#marquee{
+    background-color: cornflowerblue;
+    color: white;
+}
+body{
+    text-align:center;
+    background-color: lightcoral;
+}
+#h3{
+    font-family: cursive;
+    font-size: 40px;
+}
+#h5{
+    font-size: 25px;
+}
+#h51{
+    font-size: 25px;
+}
+#h52{
+    font-size: 25px;
+}
+.h2{
+    font-size: 50px;
+    font-family: cursive;
+}
